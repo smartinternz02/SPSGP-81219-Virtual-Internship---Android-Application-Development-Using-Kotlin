@@ -15,7 +15,9 @@ https://drive.google.com/drive/u/0/folders/1IVqHfUNCXHSYmuCiBh3tBxN9ZvOG7un7
 
 
 001. Grocery App (Project alloted )
-Github Repo Link -> https://github.com/govindgupta09/Grocery-App-Android-internship-Project-using-Kotlin-  
+Github Repo Link (below) -> 
+https://github.com/govindgupta09/Grocery-App-Android-internship-Project-using-Kotlin-  
+
 
 
 01. Lemonade App
