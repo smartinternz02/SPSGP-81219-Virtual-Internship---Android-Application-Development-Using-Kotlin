@@ -3,7 +3,7 @@ smartinternz02
 SPSGP-81219-Virtual-Internship
 
 
-Water Me! App
+Grocery App (Project)
 
 
 ************************************************************************************************************************************
@@ -12,6 +12,10 @@ Water Me! App
 Drive folder link of below all projects Demo video drive link.--->
 https://drive.google.com/drive/u/0/folders/1IVqHfUNCXHSYmuCiBh3tBxN9ZvOG7un7
 
+
+
+001. Grocery App (Project alloted )
+Github Repo Link -> https://github.com/govindgupta09/Grocery-App-Android-internship-Project-using-Kotlin-  
 
 
 01. Lemonade App
