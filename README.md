@@ -6,9 +6,9 @@ Hello, My name is Govind Gupta (B.Tech 2nd Year) I have smoothly completed the G
 I'm very thanking to SMART INTERNZ and Sandeep Doodigani sir for this Internship.
 
 ##########################################
-                                        ##
-Grocery App (Alloted Project)           ##
-                                        ##
+                                        
+Grocery App (Alloted Project)           
+                                        
 ##########################################
 
 Users frequently forget to buy the things that we want to buy, as we can’t remember everything in our daily, busy scheduled life. However, with the assistance of this (Grocery App) app, we can make a list of the groceries that we intend to buy so that we do not forget anything.
